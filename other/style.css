@@ -5,7 +5,9 @@ body {
     padding: 0;
     color: #FFFFFF;
     background-image: url('waitim.jpg');
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .container {
