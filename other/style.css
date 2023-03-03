@@ -8,20 +8,23 @@ body {
     background-size: cover;
 }
 
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-    padding: 50px;
+.text {
+    position: fixed;
+    bottom: 350px;
+    right: 800px;
+    padding: 20px;
+    font-size: 18px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0);
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 48px;
     margin-bottom: 20px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 24px;
     line-height: 1.5;
     margin-bottom: 30px;
 }
