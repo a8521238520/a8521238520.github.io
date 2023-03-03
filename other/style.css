@@ -10,7 +10,7 @@ body {
 
 .text {
     position: fixed;
-    bottom: 300px;
+    bottom: 350px;
     right: 800px;
     padding: 20px;
     font-size: 18px;
@@ -29,3 +29,14 @@ p {
     margin-bottom: 30px;
 }
 
+.countdown {
+    display: inline-block;
+    border: 2px solid #333;
+    padding: 20px;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+#countdown {
+    font-weight: bold;
+}
