@@ -4,14 +4,14 @@ body {
     margin: 0;
     padding: 0;
     color: #FFFFFF;
-    background-image: url('steamim.png');
+    background-image: url('steamim1.jpg');
     background-size: cover;
 }
 
 .text {
     position: fixed;
-    bottom: 350px;
-    right: 800px;
+    bottom: 250px;
+    right: 500px;
     padding: 20px;
     font-size: 18px;
     color: #fff;
