@@ -19,19 +19,11 @@ body {
 }
 
 h1 {
-    position: fixed;
-    bottom: 250px;
-    right: 500px;
-    padding: 20px;
     font-size: 48px;
     margin-bottom: 20px;
 }
 
 p {
-    position: fixed;
-    bottom: 250px;
-    right: 500px;
-    padding: 20px;
     font-size: 24px;
     line-height: 1.5;
     margin-bottom: 30px;
